@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 20px;
+  text-align: center;
+  margin: auto;
+  width: 500px;
+  background-color: hsla(181, 100%, 41%, 0.418);
+  gap: 2rem;
+  margin-top: 100px;
+}
+
+.count {
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin: 10px;
+}
